@@ -1,0 +1,4 @@
+nanodjango
+pyyaml
+feedparser
+requests
